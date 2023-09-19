@@ -1,0 +1,8 @@
+{
+  "name": "My Bio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b637eb03"
+}
